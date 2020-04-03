@@ -1,1 +1,1 @@
-# unity-ui-utilities
+# UI utilities for Unity
